@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910366645820",
+    "firebase_url": "https://capitanchiki3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "capitanchiki3",
+    "storage_bucket": "capitanchiki3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910366645820:android:7e053470b3d22255992d39",
+        "android_client_info": {
+          "package_name": "com.example.capitanspt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910366645820-qk01jn33hl6hqau3lru97mk73fbm0hgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSajAr5cUaDON0Gtx4-Fur0DtiQEX7tUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910366645820-qk01jn33hl6hqau3lru97mk73fbm0hgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
